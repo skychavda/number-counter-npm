@@ -1,6 +1,6 @@
 {
   "name": "number-counter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Number Counter is package for count number upward and downward.",
   "main": "build/index.js",
   "repository": {
