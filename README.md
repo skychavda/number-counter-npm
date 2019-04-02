@@ -47,6 +47,10 @@ class App extends Component {
 export default App;
 ``` 
 
+![demo-counter](./counter-demo.gif)
+
+[View Demo](https://github.com/skychavda/number-counter-npm)
+
 ## API
 
 ### Props
