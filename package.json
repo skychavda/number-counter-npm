@@ -12,7 +12,7 @@
     "email": "chavdaakash123@gmail.com"
   },
   "peerDependencies": {
-    "react": "^15.6.0"
+    "react": ">=15.6.0"
   },
   "scripts": {
     "start": "webpack --watch",
@@ -37,8 +37,8 @@
   "license": "ISC",
   "dependencies": {
     "prop-types": "^15.7.2",
-    "react": "^15.6.0",
-    "webpack": "^4.12.0"
+    "webpack": "^4.12.0",
+    "react": ">=15.6.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",

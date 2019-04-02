@@ -9,6 +9,8 @@ export default class NumberCounter extends React.Component {
     };
     this.countUp = this.countUp.bind(this);
     this.countDown = this.countDown.bind(this);
+    this.calculateSomeDelayPointForCountDown = this.calculateSomeDelayPointForCountDown.bind(this);
+    this.calculateSomeDelayPointForCountUp = this.calculateSomeDelayPointForCountUp.bind(this);
   }
 
   componentDidMount() {
